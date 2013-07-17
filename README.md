@@ -14,3 +14,7 @@ Shazaam.  Enjoy.
 
 You should be able to right-click a file, a folder, or inside a folder and open with Sublime Text 2.
 
+But wait!, There's more!
+========================
+
+Thanks to Jin Young Hur (https://github.com/hurims) for creating a version for Sublime Text 3.
