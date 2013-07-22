@@ -3,7 +3,7 @@ Windows Registry Editor Version 5.00
 
 ; Open files
 [HKEY_CLASSES_ROOT\*\shell\Open with Sublime Text 3]
-@="Edit with S&ublime Text 3"
+@="Edit with Sublime Text 3"
 "Icon"="C:\\Program Files\\Sublime Text 3\\sublime_text.exe,0"
 
 [HKEY_CLASSES_ROOT\*\shell\Open with Sublime Text 3\command]
