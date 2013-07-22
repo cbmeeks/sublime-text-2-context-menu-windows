@@ -13,7 +13,7 @@ Windows Registry Editor Version 5.00
 ; The "Icon" line can be removed if you don't want the icon to appear
 
 [HKEY_CLASSES_ROOT\Directory\shell\sublime]
-@="Open Folder as &Sublime Project"
+@="Open Folder as Sublime Project"
 "Icon"="\"C:\\Program Files\\Sublime Text 3\\sublime_text.exe\",0"
 
 [HKEY_CLASSES_ROOT\Directory\shell\sublime\command]
@@ -24,7 +24,7 @@ Windows Registry Editor Version 5.00
 ; The "Icon" line can be removed if you don't want the icon to appear
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\sublime]
-@="Open Folder as &Sublime Project"
+@="Open Folder as Sublime Project"
 "Icon"="\"C:\\Program Files\\Sublime Text 3\\sublime_text.exe\",0"
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\sublime\command]
