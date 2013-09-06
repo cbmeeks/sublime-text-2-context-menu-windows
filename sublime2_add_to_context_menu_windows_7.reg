@@ -4,20 +4,20 @@ Windows Registry Editor Version 5.00
 ; Open files
 [HKEY_CLASSES_ROOT\*\shell\Open with Sublime Text 2]
 @="Edit with Sublime Text 2"
-"Icon"="C:\\Program Files\\Sublime Text 2.0.1 x64\\sublime_text.exe,0"
+"Icon"="C:\\Program Files\\Sublime Text 2\\sublime_text.exe,0"
 
 [HKEY_CLASSES_ROOT\*\shell\Open with Sublime Text 2\command]
-@="\"C:\\Program Files\\Sublime Text 2.0.1 x64\\sublime_text.exe\" \"%1\""
+@="\"C:\\Program Files\\Sublime Text 2\\sublime_text.exe\" \"%1\""
 
 ; This will make it appear when you right click ON a folder
 ; The "Icon" line can be removed if you don't want the icon to appear
 
 [HKEY_CLASSES_ROOT\Directory\shell\sublime]
 @="Open Folder as Sublime Project"
-"Icon"="\"C:\\Program Files\\Sublime Text 2.0.1 x64\\sublime_text.exe\",0"
+"Icon"="\"C:\\Program Files\\Sublime Text 2\\sublime_text.exe\",0"
 
 [HKEY_CLASSES_ROOT\Directory\shell\sublime\command]
-@="\"C:\\Program Files\\Sublime Text 2.0.1 x64\\sublime_text.exe\" \"%1\""
+@="\"C:\\Program Files\\Sublime Text 2\\sublime_text.exe\" \"%1\""
 
 
 ; This will make it appear when you right click INSIDE a folder
@@ -25,7 +25,7 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\sublime]
 @="Open Folder as Sublime Project"
-"Icon"="\"C:\\Program Files\\Sublime Text 2.0.1 x64\\sublime_text.exe\",0"
+"Icon"="\"C:\\Program Files\\Sublime Text 2\\sublime_text.exe\",0"
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\sublime\command]
-@="\"C:\\Program Files\\Sublime Text 2.0.1 x64\\sublime_text.exe\" \"%V\""
+@="\"C:\\Program Files\\Sublime Text 2\\sublime_text.exe\" \"%V\""
